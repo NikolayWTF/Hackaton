@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65313276322",
+    "firebase_url": "https://hackathon-b45a8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hackathon-b45a8",
+    "storage_bucket": "hackathon-b45a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65313276322:android:b8db0958a811c8fc3cb2fb",
+        "android_client_info": {
+          "package_name": "com.example.npaassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65313276322-51driq5426o26m0l0c9foggfjjg2np0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAQGVcbN9kDk4jkO16h5W_TQHHZjx950"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65313276322-51driq5426o26m0l0c9foggfjjg2np0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
